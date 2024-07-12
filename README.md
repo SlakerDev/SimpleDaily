@@ -7,7 +7,7 @@ SimpleDaily est un plugin qui consiste à recvoir de l'argent de manière quotid
 
 - Une commande /daily est disponible, elle sert à donner un somme configurable dans le fichier SimpleDaily.json au joueur. La commande n'est pas executable en moins de 24 heures.
 
-- L'intervale entre chaque commande est configurable dans le fichier ISmpleDaily.json
+- L'intervale entre chaque commande est configurable dans le fichier SmpleDaily.json
 
 # 📁 Installation:
 ➝ Téléchargez SimpleDaily.dll depuis la page des releases : Release GitHub SimpleDaily.
